@@ -1,0 +1,426 @@
+Info: Checking netlist symbol footprint "R9:/6050F3EF:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "Q1:/60521E76:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "R6:/6054CBE2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "K1:/60597739:be_elec_footprint:Relais_112LMH2".
+
+Info: Checking netlist symbol footprint "R7:/6050F447:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "J3:/60698941:Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical".
+
+Info: Checking netlist symbol footprint "R8:/60527AF9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "HS2:/605ACA74:Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm".
+
+Info: Checking netlist symbol footprint "HS1:/6058CB40:Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm".
+
+Info: Checking netlist symbol footprint "R5:/6050F24D:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "D3:/6050F631:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "R10:/6050F4B9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "D2:/60660B3D:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "D1:/6061EA02:Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "R11:/6058CDB9:Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal".
+
+Info: Checking netlist symbol footprint "C11:/605B9579:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Info: Checking netlist symbol footprint "R12:/6058CE2D:Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal".
+
+Info: Checking netlist symbol footprint "C10:/605B94D1:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+
+Info: Checking netlist symbol footprint "Q6:/6052234B:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "Q10:/60598595:Package_TO_SOT_THT:TO-220-3_Vertical".
+
+Info: Checking netlist symbol footprint "Q11:/60587DC2:Package_TO_SOT_THT:TO-126-3_Vertical".
+
+Info: Checking netlist symbol footprint "Q9:/60587B24:Package_TO_SOT_THT:TO-126-3_Vertical".
+
+Info: Checking netlist symbol footprint "Q8:/6052307E:Package_TO_SOT_THT:TO-126-3_Vertical".
+
+Info: Checking netlist symbol footprint "Q12:/6059840F:Package_TO_SOT_THT:TO-220-3_Vertical".
+
+Info: Checking netlist symbol footprint "C1:/6051259C:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Info: Checking netlist symbol footprint "Q7:/6052224F:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "Q13:/605897BE:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "J2:/6063835B:Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical".
+
+Info: Checking netlist symbol footprint "R1:/60510B1B:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "Q5:/6054A0D9:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "R2:/60510A64:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "Q4:/60543FA6:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "R3:/6051DA6E:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "Q3:/6052218C:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "R4:/6050F203:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "Q2:/60521DAE:Package_TO_SOT_THT:TO-18-3".
+
+Info: Checking netlist symbol footprint "C3:/60660C86:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Info: Checking netlist symbol footprint "R14:/6051FE1C:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "U1:/6061A5A9:CmpAmpliAudio:Jack_35RAPC2AV".
+
+Info: Checking netlist symbol footprint "C8:/6058D0BB:Capacitor_THT:CP_Radial_D12.5mm_P5.00mm".
+
+Info: Checking netlist symbol footprint "C6:/606B7EBD:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+
+Info: Checking netlist symbol footprint "C2:/60564553:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Info: Checking netlist symbol footprint "C4:/606A2A11:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+
+Info: Checking netlist symbol footprint "R17:/60660D44:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "R15:/6051FDB0:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "C9:/6058CED3:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Info: Checking netlist symbol footprint "C7:/606B7F47:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Info: Checking netlist symbol footprint "R13:/605EA68D:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "R16:/606402BE:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "C5:/606A288E:Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Changing footprint "R1:/60510B1B" pad "1" net name from "" to "Net-(C1-Pad1)".
+
+Adding new symbol "R17:/60660D44" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "Q13:/605897BE" pad "3" net name from "" to "Net-(D1-Pad2)".
+
+Adding new symbol "R1:/60510B1B" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "Q13:/605897BE" pad "2" net name from "" to "Net-(D2-Pad1)".
+
+Changing footprint "R1:/60510B1B" pad "2" net name from "" to "GND".
+
+Adding new symbol "R3:/6051DA6E" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R16:/606402BE" pad "2" net name from "" to "Net-(C3-Pad1)".
+
+Adding new symbol "R2:/60510A64" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R2:/60510A64" pad "1" net name from "" to "Net-(C2-Pad2)".
+
+Changing footprint "R2:/60510A64" pad "2" net name from "" to "-12V".
+
+Changing footprint "R16:/606402BE" pad "1" net name from "" to "+12V".
+
+Adding new symbol "R16:/606402BE" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R4:/6050F203" pad "1" net name from "" to "+12V".
+
+Changing footprint "Q11:/60587DC2" pad "1" net name from "" to "Net-(Q11-Pad1)".
+
+Changing footprint "U1:/6061A5A9" pad "T" net name from "" to "Net-(C1-Pad2)".
+
+Changing footprint "Q10:/60598595" pad "1" net name from "" to "Net-(Q10-Pad1)".
+
+Changing footprint "Q10:/60598595" pad "2" net name from "" to "Net-(Q10-Pad2)".
+
+Changing footprint "Q10:/60598595" pad "3" net name from "" to "+12V".
+
+Changing footprint "U1:/6061A5A9" pad "G" net name from "" to "GND".
+
+Changing footprint "U1:/6061A5A9" pad "TN" net name from "" to "Net-(U1-PadTN)".
+
+Adding new symbol "Q11:/60587DC2" footprint "Package_TO_SOT_THT:TO-126-3_Vertical".
+
+Changing footprint "Q11:/60587DC2" pad "3" net name from "" to "Net-(C2-Pad1)".
+
+Changing footprint "Q11:/60587DC2" pad "2" net name from "" to "Net-(Q11-Pad2)".
+
+Changing footprint "Q13:/605897BE" pad "1" net name from "" to "GND".
+
+Adding new symbol "U1:/6061A5A9" footprint "CmpAmpliAudio:Jack_35RAPC2AV".
+
+Adding new symbol "Q12:/6059840F" footprint "Package_TO_SOT_THT:TO-220-3_Vertical".
+
+Changing footprint "Q12:/6059840F" pad "3" net name from "" to "-12V".
+
+Changing footprint "R17:/60660D44" pad "1" net name from "" to "Net-(D2-Pad1)".
+
+Changing footprint "Q12:/6059840F" pad "2" net name from "" to "Net-(Q11-Pad1)".
+
+Changing footprint "Q12:/6059840F" pad "1" net name from "" to "Net-(Q11-Pad2)".
+
+Adding new symbol "Q13:/605897BE" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Changing footprint "R17:/60660D44" pad "2" net name from "" to "GND".
+
+Adding new symbol "R10:/6050F4B9" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R14:/6051FE1C" pad "1" net name from "" to "Net-(K1-Padc1)".
+
+Changing footprint "R8:/60527AF9" pad "2" net name from "" to "Net-(Q6-Pad3)".
+
+Adding new symbol "R14:/6051FE1C" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R8:/60527AF9" pad "1" net name from "" to "Net-(C2-Pad1)".
+
+Adding new symbol "R9:/6050F3EF" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R9:/6050F3EF" pad "2" net name from "" to "+12V".
+
+Changing footprint "R9:/6050F3EF" pad "1" net name from "" to "Net-(Q7-Pad1)".
+
+Changing footprint "R13:/605EA68D" pad "1" net name from "" to "Net-(K1-Padc1)".
+
+Changing footprint "R13:/605EA68D" pad "2" net name from "" to "GND".
+
+Adding new symbol "R8:/60527AF9" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R10:/6050F4B9" pad "2" net name from "" to "Net-(Q6-Pad2)".
+
+Changing footprint "R10:/6050F4B9" pad "1" net name from "" to "GND".
+
+Adding new symbol "R13:/605EA68D" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Adding new symbol "R11:/6058CDB9" footprint "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal".
+
+Changing footprint "R11:/6058CDB9" pad "2" net name from "" to "Net-(K1-Padc1)".
+
+Changing footprint "R11:/6058CDB9" pad "1" net name from "" to "Net-(Q10-Pad2)".
+
+Changing footprint "R12:/6058CE2D" pad "2" net name from "" to "Net-(Q11-Pad1)".
+
+Adding new symbol "R12:/6058CE2D" footprint "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal".
+
+Adding new symbol "R6:/6054CBE2" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R3:/6051DA6E" pad "1" net name from "" to "Net-(Q2-Pad3)".
+
+Adding new symbol "R4:/6050F203" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R12:/6058CE2D" pad "1" net name from "" to "Net-(K1-Padc1)".
+
+Changing footprint "R4:/6050F203" pad "2" net name from "" to "Net-(Q3-Pad1)".
+
+Changing footprint "R15:/6051FDB0" pad "2" net name from "" to "GND".
+
+Changing footprint "R15:/6051FDB0" pad "1" net name from "" to "Net-(Q2-Pad2)".
+
+Adding new symbol "R5:/6050F24D" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R5:/6050F24D" pad "1" net name from "" to "GND".
+
+Changing footprint "R5:/6050F24D" pad "2" net name from "" to "Net-(D3-Pad2)".
+
+Changing footprint "R3:/6051DA6E" pad "2" net name from "" to "-12V".
+
+Adding new symbol "R15:/6051FDB0" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R6:/6054CBE2" pad "1" net name from "" to "Net-(Q5-Pad1)".
+
+Changing footprint "R6:/6054CBE2" pad "2" net name from "" to "-12V".
+
+Adding new symbol "R7:/6050F447" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R14:/6051FE1C" pad "2" net name from "" to "GND".
+
+Changing footprint "R7:/6050F447" pad "1" net name from "" to "+12V".
+
+Changing footprint "R7:/6050F447" pad "2" net name from "" to "Net-(Q6-Pad1)".
+
+Adding new symbol "Q7:/6052224F" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Changing footprint "D1:/6061EA02" pad "2" net name from "" to "Net-(D1-Pad2)".
+
+Changing footprint "C8:/6058D0BB" pad "2" net name from "" to "GND".
+
+Adding new symbol "C9:/6058CED3" footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Changing footprint "C9:/6058CED3" pad "1" net name from "" to "+12V".
+
+Changing footprint "C9:/6058CED3" pad "2" net name from "" to "GND".
+
+Adding new symbol "C10:/605B94D1" footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+
+Changing footprint "C10:/605B94D1" pad "1" net name from "" to "GND".
+
+Changing footprint "C10:/605B94D1" pad "2" net name from "" to "-12V".
+
+Adding new symbol "C11:/605B9579" footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Changing footprint "C11:/605B9579" pad "1" net name from "" to "GND".
+
+Changing footprint "C11:/605B9579" pad "2" net name from "" to "-12V".
+
+Adding new symbol "D1:/6061EA02" footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal".
+
+Changing footprint "C8:/6058D0BB" pad "1" net name from "" to "+12V".
+
+Changing footprint "D1:/6061EA02" pad "1" net name from "" to "+12V".
+
+Adding new symbol "D2:/60660B3D" footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal".
+
+Changing footprint "D2:/60660B3D" pad "1" net name from "" to "Net-(D2-Pad1)".
+
+Changing footprint "D2:/60660B3D" pad "2" net name from "" to "Net-(C3-Pad1)".
+
+Adding new symbol "D3:/6050F631" footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal".
+
+Changing footprint "D3:/6050F631" pad "1" net name from "" to "+12V".
+
+Changing footprint "D3:/6050F631" pad "2" net name from "" to "Net-(D3-Pad2)".
+
+Adding new symbol "HS1:/6058CB40" footprint "Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm".
+
+Adding new symbol "HS2:/605ACA74" footprint "Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm".
+
+Adding new symbol "J2:/6063835B" footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical".
+
+Changing footprint "C4:/606A2A11" pad "1" net name from "" to "+12V".
+
+Adding new symbol "C1:/6051259C" footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Changing footprint "C1:/6051259C" pad "2" net name from "" to "Net-(C1-Pad2)".
+
+Changing footprint "C1:/6051259C" pad "1" net name from "" to "Net-(C1-Pad1)".
+
+Adding new symbol "C2:/60564553" footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Changing footprint "C2:/60564553" pad "2" net name from "" to "Net-(C2-Pad2)".
+
+Changing footprint "C2:/60564553" pad "1" net name from "" to "Net-(C2-Pad1)".
+
+Adding new symbol "C3:/60660C86" footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Changing footprint "C3:/60660C86" pad "1" net name from "" to "Net-(C3-Pad1)".
+
+Changing footprint "C3:/60660C86" pad "2" net name from "" to "-12V".
+
+Adding new symbol "C4:/606A2A11" footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+
+Changing footprint "C4:/606A2A11" pad "2" net name from "" to "GND".
+
+Changing footprint "J2:/6063835B" pad "1" net name from "" to "Net-(J2-Pad1)".
+
+Adding new symbol "C5:/606A288E" footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Changing footprint "C5:/606A288E" pad "1" net name from "" to "GND".
+
+Changing footprint "C5:/606A288E" pad "2" net name from "" to "+12V".
+
+Adding new symbol "C6:/606B7EBD" footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+
+Changing footprint "C6:/606B7EBD" pad "1" net name from "" to "GND".
+
+Changing footprint "C6:/606B7EBD" pad "2" net name from "" to "-12V".
+
+Adding new symbol "C7:/606B7F47" footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Changing footprint "C7:/606B7F47" pad "2" net name from "" to "GND".
+
+Changing footprint "C7:/606B7F47" pad "1" net name from "" to "-12V".
+
+Adding new symbol "C8:/6058D0BB" footprint "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm".
+
+Changing footprint "Q7:/6052224F" pad "1" net name from "" to "Net-(Q7-Pad1)".
+
+Changing footprint "Q4:/60543FA6" pad "1" net name from "" to "Net-(Q4-Pad1)".
+
+Changing footprint "Q4:/60543FA6" pad "2" net name from "" to "Net-(C2-Pad2)".
+
+Changing footprint "Q4:/60543FA6" pad "3" net name from "" to "Net-(C2-Pad1)".
+
+Adding new symbol "Q5:/6054A0D9" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Changing footprint "Q5:/6054A0D9" pad "3" net name from "" to "Net-(C2-Pad1)".
+
+Changing footprint "Q5:/6054A0D9" pad "2" net name from "" to "Net-(Q4-Pad1)".
+
+Changing footprint "Q5:/6054A0D9" pad "1" net name from "" to "Net-(Q5-Pad1)".
+
+Adding new symbol "Q6:/6052234B" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Changing footprint "Q6:/6052234B" pad "1" net name from "" to "Net-(Q6-Pad1)".
+
+Changing footprint "Q6:/6052234B" pad "2" net name from "" to "Net-(Q6-Pad2)".
+
+Changing footprint "Q6:/6052234B" pad "3" net name from "" to "Net-(Q6-Pad3)".
+
+Adding new symbol "Q4:/60543FA6" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Changing footprint "Q7:/6052224F" pad "2" net name from "" to "Net-(Q6-Pad2)".
+
+Changing footprint "Q7:/6052224F" pad "3" net name from "" to "Net-(Q6-Pad2)".
+
+Adding new symbol "Q8:/6052307E" footprint "Package_TO_SOT_THT:TO-126-3_Vertical".
+
+Changing footprint "Q8:/6052307E" pad "1" net name from "" to "Net-(C2-Pad1)".
+
+Changing footprint "Q8:/6052307E" pad "2" net name from "" to "Net-(Q6-Pad3)".
+
+Changing footprint "Q8:/6052307E" pad "3" net name from "" to "Net-(Q6-Pad3)".
+
+Adding new symbol "Q9:/60587B24" footprint "Package_TO_SOT_THT:TO-126-3_Vertical".
+
+Changing footprint "Q9:/60587B24" pad "1" net name from "" to "Net-(Q10-Pad2)".
+
+Changing footprint "Q9:/60587B24" pad "2" net name from "" to "Net-(Q10-Pad1)".
+
+Changing footprint "Q9:/60587B24" pad "3" net name from "" to "Net-(Q6-Pad3)".
+
+Changing footprint "Q1:/60521E76" pad "3" net name from "" to "Net-(C2-Pad2)".
+
+Changing footprint "J2:/6063835B" pad "2" net name from "" to "GND".
+
+Adding new symbol "J3:/60698941" footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical".
+
+Changing footprint "J3:/60698941" pad "1" net name from "" to "-12V".
+
+Changing footprint "J3:/60698941" pad "2" net name from "" to "GND".
+
+Changing footprint "J3:/60698941" pad "3" net name from "" to "+12V".
+
+Adding new symbol "K1:/60597739" footprint "be_elec_footprint:Relais_112LMH2".
+
+Changing footprint "K1:/60597739" pad "b1" net name from "" to "Net-(D1-Pad2)".
+
+Changing footprint "K1:/60597739" pad "b2" net name from "" to "+12V".
+
+Changing footprint "K1:/60597739" pad "c1" net name from "" to "Net-(K1-Padc1)".
+
+Changing footprint "K1:/60597739" pad "c2" net name from "" to "Net-(J2-Pad1)".
+
+Adding new symbol "Q1:/60521E76" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Adding new symbol "Q10:/60598595" footprint "Package_TO_SOT_THT:TO-220-3_Vertical".
+
+Changing footprint "Q1:/60521E76" pad "2" net name from "" to "Net-(C1-Pad1)".
+
+Changing footprint "Q1:/60521E76" pad "1" net name from "" to "Net-(Q1-Pad1)".
+
+Adding new symbol "Q2:/60521DAE" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Changing footprint "Q2:/60521DAE" pad "3" net name from "" to "Net-(Q2-Pad3)".
+
+Changing footprint "Q2:/60521DAE" pad "2" net name from "" to "Net-(Q2-Pad2)".
+
+Changing footprint "Q2:/60521DAE" pad "1" net name from "" to "Net-(Q1-Pad1)".
+
+Adding new symbol "Q3:/6052218C" footprint "Package_TO_SOT_THT:TO-18-3".
+
+Changing footprint "Q3:/6052218C" pad "3" net name from "" to "Net-(Q1-Pad1)".
+
+Changing footprint "Q3:/6052218C" pad "2" net name from "" to "Net-(D3-Pad2)".
+
+Changing footprint "Q3:/6052218C" pad "1" net name from "" to "Net-(Q3-Pad1)".
+
