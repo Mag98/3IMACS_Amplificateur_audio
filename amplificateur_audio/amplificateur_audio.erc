@@ -1,13 +1,13 @@
-ERC report (sam. 20 mars 2021 11:07:33 CET, Encoding UTF8 )
+ERC report (lun. 05 avril 2021 11:08:56 CEST, Encoding UTF8 )
 
 ***** Sheet /
-ErrType(3): Pin connected to some others pins but no pin to drive it
-    @ (16,51 mm,97,79 mm): Pin 1 (Power input) of component #PWR0116 is not driven (Net 1).
-ErrType(3): Pin connected to some others pins but no pin to drive it
-    @ (86,36 mm,17,78 mm): Pin 1 (Power input) of component #PWR0105 is not driven (Net 3).
 ErrType(2): Pin not connected (and no connect symbol found on this pin)
     @ (24,13 mm,82,55 mm): Pin TN (Passive) of component U1 is unconnected.
 ErrType(3): Pin connected to some others pins but no pin to drive it
-    @ (38,10 mm,180,34 mm): Pin 1 (Power input) of component #PWR0119 is not driven (Net 12).
+    @ (236,22 mm,127,00 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 2).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (260,35 mm,73,66 mm): Pin 1 (Power input) of component #PWR0112 is not driven (Net 4).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (106,68 mm,135,89 mm): Pin 1 (Power input) of component #PWR0106 is not driven (Net 6).
 
  ** ERC messages: 4  Errors 0  Warnings 4
