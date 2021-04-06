@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name CmpAmpliAudio)(type KiCad)(uri ${KIPRJMOD}/TR_LibAmpli_3imacs_2021/CmpAmpliAudio.pretty)(options "")(descr ""))
   (lib (name be_elec_footprint)(type KiCad)(uri ${KIPRJMOD}/be_elec_footprint.pretty)(options "")(descr ""))
+  (lib (name CmpAmpliAudioTR)(type KiCad)(uri ${KIPRJMOD}/TR_MaLib_Ampli_2021/CmpAmpliAudioTR.pretty)(options "")(descr ""))
 )

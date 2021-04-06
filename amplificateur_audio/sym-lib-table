@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name be_elec)(type Legacy)(uri /home/mag98/insa/BE_elec/Routage/amplificateur_audio/be_elec.lib)(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type Legacy)(uri ${KIPRJMOD}/TR_LibAmpli_3imacs_2021/CmpAmpliAudio.lib)(options "")(descr ""))
 )
